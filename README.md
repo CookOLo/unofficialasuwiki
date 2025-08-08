@@ -11,4 +11,6 @@ I wanted to archive and document student life at ASU. From student-led events, o
 * Archiving and Documentation
 * Markdown
 
-#
+## Tools Used
+* Miraheze for the server and platform to host the wiki
+* MediaWiki to make the wiki itself
